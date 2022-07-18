@@ -1,0 +1,1 @@
+Utilizando Construtor para criar metodos dentro da Classe
